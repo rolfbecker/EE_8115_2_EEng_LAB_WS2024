@@ -1,0 +1,10 @@
+# Four modules in series, normal operation, no shading, no bypass
+# REPLACE THE VALUES WITH YOUR OWN MEASUREMENTS!
+# All rows beginning with # are comments and ignored
+# V(V), I(mA), R
+# Isc
+0.0, 20.0, 0
+# different load reistances
+15.2, 18.0, 800 
+# Voc
+20.0,  0.0, 1e15

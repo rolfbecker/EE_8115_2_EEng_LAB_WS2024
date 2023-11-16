@@ -1,0 +1,9 @@
+# Four modules in series, PV2 shaded, no bypass
+# REPLACE THE VALUES WITH YOUR OWN MEASUREMENTS!
+# All rows beginning with # are comments and ignored
+# V(V), I(mA), R
+# Isc
+0.0, 20.0, 0
+# different load reistances
+# Voc
+
