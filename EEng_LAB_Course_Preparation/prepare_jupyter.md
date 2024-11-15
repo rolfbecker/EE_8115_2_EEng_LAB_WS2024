@@ -1,4 +1,4 @@
-## Prepare your Jupyter Python Environment
+# Prepare your Jupyter Python Environment
 
 You will use our prepared **Jupyter Notebooks** to work on the exercises. They contain safety instructions, description of the experiments' setup, instructions how and what to measure, as well as runnable Python code to perform the data analysis.
 
