@@ -4,7 +4,7 @@
 # V(V), I(mA), R
 # Isc
 0.0, 20.0, 0
-# different load reistances
+# different load resistances
 3.8, 18.0, 200 
 # Voc
 5.0,  0.0, 1e15
