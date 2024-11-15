@@ -6,7 +6,7 @@ You will run the Jupyter Notebooks in the **Jupyter Lab** development environmen
 
 We propose two ways to **make use of Jupyter Lab**. 
 
-(1) Either use the **Jupyter Hub** server operated by the **HSRW Earth Observtion Lab**, which provides a personal Jupyter Lab environment for you, <br>
+(1) Either use the **Jupyter Hub** server operated by the **HSRW Earth Observtion Lab**, which provides a personal Jupyter Lab environment for the HSRW students, <br>
 (2) or install your own Python system on your own computer. We highly recommend to use the **Anaconda Python Distribution**!
 
 ## (1) Use the Jupyter Hub of the HSRW EO-Lab
