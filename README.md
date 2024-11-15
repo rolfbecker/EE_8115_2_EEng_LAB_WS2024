@@ -11,7 +11,7 @@ We use this git repository to disseminate the course material. It would be best 
 
 Alternatively you can also **download the zipped repository**. Go to the [repository homepage](https://github.com/rolfbecker/EE_8115_2_EEng_LAB_WS2024) and click on the green botton at the upper right corner. Choose "Download zip" and save the zip archieve to an appropriate folder on your harddrive. Go to this folder and **really unzip** the archieve. Do not just click and enter it!
 
-The **[Course Preparation Section](./EEng_LAB_Course_Preparation/README.md)** explains the **creation of a Jupyter Python enviroment.**
+Go to **[EEng Lab Course Preparation](./EEng_LAB_Course_Preparation/README.md)** to set up your Python work environment based on **Jupyter Lab**.
 
 
 ## Lab Exercises ##
