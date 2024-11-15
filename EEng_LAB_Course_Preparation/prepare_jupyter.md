@@ -57,4 +57,8 @@ jupyter-lab
 
 ## (2) Download or Clone the EEng Lab Notebooks from the Git Repository
 
+Open a terminal in your intended Python (conda) environment. On the command line interface (CLI) execute:
+
+`git clone 
+
 
