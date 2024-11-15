@@ -11,7 +11,7 @@ We propose two ways to make use of Jupyter Lab.
 
 ## (1) Use the Jupyter Hub of the HSRW EO-Lab
 
-Go to http://hub.eolab.de/ an log in with your university credentials.
+Go to [https://hub.eolab.de/](http://hub.eolab.de/) an log in with your university credentials.
 
 ## (2) Create a New Conda Environment
 
