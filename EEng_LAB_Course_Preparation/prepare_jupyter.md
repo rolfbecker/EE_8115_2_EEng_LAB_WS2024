@@ -1,4 +1,4 @@
-## Prepare your Python Environment
+## Prepare your Jupyter Python Environment
 
 You will use our prepared **Jupyter Notebooks** to work on the exercises. They contain safety instructions, description of the experiments' setup, instructions how and what to measure, as well as runnable Python code to perform the data analysis.
 
@@ -10,6 +10,8 @@ We propose two ways to make use of Jupyter Lab.
 (2) or install your own Python system on your own computer. We highly recommend to use the **Anaconda Python Distribution**!
 
 ## (1) Use the Jupyter Hub of the HSRW EO-Lab
+
+Go to http://hub.eolab.de/ an log in with your university credentials.
 
 ## (2) Create a New Conda Environment
 
