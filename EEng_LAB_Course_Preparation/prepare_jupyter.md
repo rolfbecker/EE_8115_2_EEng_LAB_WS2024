@@ -1,4 +1,4 @@
-# EENg Lab Course Preparation
+# EEng Lab Course Preparation
 
 ## (1) Prepare your Jupyter Python Environment
 
