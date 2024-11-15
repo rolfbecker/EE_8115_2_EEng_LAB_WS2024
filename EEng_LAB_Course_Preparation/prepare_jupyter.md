@@ -59,6 +59,8 @@ jupyter-lab
 
 Open a terminal in your intended Python (conda) environment. On the command line interface (CLI) execute:
 
-```git clone https://github.com/rolfbecker/EE_8115_2_EEng_LAB_WS2024.git``` 
+```
+git clone https://github.com/rolfbecker/EE_8115_2_EEng_LAB_WS2024.git
+``` 
 
 
