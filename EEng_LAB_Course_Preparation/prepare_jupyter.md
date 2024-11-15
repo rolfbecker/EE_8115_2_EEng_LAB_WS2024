@@ -1,4 +1,6 @@
-# Prepare your Jupyter Python Environment
+# EENg Lab Course Preparation
+
+## (1) Prepare your Jupyter Python Environment
 
 You will use our prepared **Jupyter Notebooks** to work on the exercises. They contain safety instructions, description of the experiments' setup, instructions how and what to measure, as well as runnable Python code to perform the data analysis.
 
@@ -9,21 +11,21 @@ We propose two ways to **make use of Jupyter Lab**.
 (1) Either use the **Jupyter Hub** server operated by the **HSRW Earth Observtion Lab**, which provides a personal Jupyter Lab environment for the HSRW students, <br>
 (2) or install your own Python system on your own computer. We highly recommend to use the **Anaconda Python Distribution**!
 
-## (1) Use the Jupyter Hub of the HSRW EO-Lab
+### Alternative (A):  Use the Jupyter Hub of the HSRW EO-Lab
 
 Go to [https://hub.eolab.de/](http://hub.eolab.de/) an log in with your university credentials.
 
-## (2) Local Anaconda Python Installation 
+### Alternative (B): Local Anaconda Python Installation 
 
 In case you do not want to or cannot use the HSRW EO-Lab's Jupyter Hub you should install Anaconda locally. Anaconda is a powerful Python distribution also providing the Jupyer Lab development system for Python.
 
-### (2.1) Install Anaconda
+#### (B.1) Install Anaconda
 
 Find the official installation instructions here:
 
 * [Install Anaconda](https://docs.anaconda.com/anaconda/install/index.html)
 
-### (2.2) Create a New Conda Environment
+#### (B.2) Create a New Conda Environment
 
 Python environments allow for separate parallel project specific software installations which are independent from each other. These environments are used to provide a conflict free software installation for a specific task. 
 
@@ -52,4 +54,7 @@ conda activate eeng
 
 jupyter-lab
 ```
+
+## (2) Download or Clone the EEng Lab Notebooks from the Git Repository
+
 
