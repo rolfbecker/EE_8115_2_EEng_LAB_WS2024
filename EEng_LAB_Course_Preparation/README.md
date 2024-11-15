@@ -55,12 +55,24 @@ conda activate eeng
 jupyter-lab
 ```
 
-## (2) Clone the EEng Lab Notebook Repository from Git
+## (2) Clone or Download the EEng Lab Notebook Repository from Git
+
+We use this git repository to disseminate the course material. The are two alternatives to get the lab notebooks.
+
+**Alternative (A): Use a Git client.**
+
+Use a Git client to **clone the repository** regularly. More on Git **[here](./eeng0020_LAB_Course_Preparation/git.md)**. 
 
 Open a terminal in your intended Python (conda) environment. On the command line interface (CLI) execute:
 
 ```
 git clone https://github.com/rolfbecker/EE_8115_2_EEng_LAB_WS2024.git
 ``` 
+
+**Alternative (B): download the zipped repository.**
+
+Alternatively you can also **download the zipped repository**. Go to the [repository homepage](https://github.com/rolfbecker/EE_8115_2_EEng_LAB_WS2024) and click on the green botton at the upper right corner. Choose "Download zip" and save the zip archieve to an appropriate folder on your harddrive. Go to this folder and **really unzip** the archieve. Do not just click and enter it!
+
+
 
 
