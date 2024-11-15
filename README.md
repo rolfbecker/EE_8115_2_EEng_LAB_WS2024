@@ -5,12 +5,6 @@ This git repository provides the **open educational resources (OER)** used in th
 
 **These lab exercises are part of the course [EE_8115_2](https://github.com/rolfbecker/EE_8115_2_EEng_WS2024/).**
 
-## How to download or clone the course material 
-
-We use this git repository to disseminate the course material. It would be best if you used a Git client to **clone the repository** regularly. More on Git **[here](./eeng0020_LAB_Course_Preparation/git.md)**. 
-
-Alternatively you can also **download the zipped repository**. Go to the [repository homepage](https://github.com/rolfbecker/EE_8115_2_EEng_LAB_WS2024) and click on the green botton at the upper right corner. Choose "Download zip" and save the zip archieve to an appropriate folder on your harddrive. Go to this folder and **really unzip** the archieve. Do not just click and enter it!
-
 Go to **[EEng Lab Course Preparation](./EEng_LAB_Course_Preparation/README.md)** to set up your Python work environment based on **Jupyter Lab**.
 
 
