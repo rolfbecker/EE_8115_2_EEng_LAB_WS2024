@@ -4,7 +4,7 @@ You will use our prepared **Jupyter Notebooks** to work on the exercises. They c
 
 You will run the Jupyter Notebooks in the **Jupyter Lab** development environment which is executed in a browser (preferably Chrome, Chromium or Edge).
 
-We propose two ways to make use of Jupyter Lab. 
+We propose two ways to **make use of Jupyter Lab**. 
 
 (1) Either use the **Jupyter Hub** server operated by the **HSRW Earth Observtion Lab**, which provides a personal Jupyter Lab environment for you, <br>
 (2) or install your own Python system on your own computer. We highly recommend to use the **Anaconda Python Distribution**!
@@ -13,7 +13,21 @@ We propose two ways to make use of Jupyter Lab.
 
 Go to [https://hub.eolab.de/](http://hub.eolab.de/) an log in with your university credentials.
 
-## (2) Create a New Conda Environment
+## (2) Local Anaconda Python Installation 
+
+In case you do not want to or cannot use the HSRW EO-Lab's Jupyter Hub you should install Anaconda locally. Anaconda is a powerful Python distribution also providing the Jupyer Lab development system for Python.
+
+### (2.1) Install Anaconda
+
+Find the official installation instructions here:
+
+* [Install Anaconda](https://docs.anaconda.com/anaconda/install/index.html)
+
+### (2.2) Create a New Conda Environment
+
+Python environments allow for separate parallel project specific software installations which are independent from each other. These environments are used to provide a conflict free software installation for a specific task. 
+
+* [Create a Conda Environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 **On Windows:** Open an **Anaconda Powershell Prompt** (Start -> Anaconda3 -> Anaconda Powershell Prompt). 
 
@@ -38,3 +52,4 @@ conda activate eeng
 
 jupyter-lab
 ```
+
