@@ -16,6 +16,8 @@ Go to **[EEng Lab Course Preparation](./EEng_LAB_Course_Preparation/README.md)**
 
 ## Material List
 
+The following is a list of material for **a single Kit**.
+
 | Quantity | Device                                                        |
 |:--------:|---------------------------------------------------------------|
 | 2        | Multimeters                                                   |
